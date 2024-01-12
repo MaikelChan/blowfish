@@ -15,7 +15,8 @@ enableCodeCopy = false
 # mainSections = ["section1", "section2"]
 # robots = ""
 
-disableImageOptimization = true
+disableImageOptimization = false
+disableTextInHeader = false
 
 # defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
@@ -71,8 +72,8 @@ disableImageOptimization = true
   showTaxonomies = false
   showAuthorsBadges = false
   showWordCount = true
-  showSummary = true
   # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
+  showZenMode = false
 
 [list]
   showHero = false

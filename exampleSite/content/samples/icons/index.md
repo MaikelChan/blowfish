@@ -37,6 +37,7 @@ The full list of built-in icons and their corresponding names can referenced bel
 | edit                 | {{< icon edit >}}                 |
 | email                | {{< icon email >}}                |
 | envelope             | {{< icon envelope >}}             |
+| expand               | {{< icon expand >}}               |
 | eye                  | {{< icon eye >}}                  |
 | facebook             | {{< icon facebook >}}             |
 | fire                 | {{< icon fire >}}                 |
@@ -106,5 +107,6 @@ The full list of built-in icons and their corresponding names can referenced bel
 | twitter              | {{< icon twitter >}}              |
 | wand-magic-sparkles  | {{< icon wand-magic-sparkles >}}  |
 | whatsapp             | {{< icon whatsapp >}}             |
+| x-twitter            | {{< icon x-twitter >}}            |
 | xmark                | {{< icon xmark >}}                |
 | youtube              | {{< icon youtube >}}              |
