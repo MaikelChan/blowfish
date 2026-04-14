@@ -510,15 +510,6 @@
     ]
   },
   {
-    "title": "Middle of Nowhere",
-    "url": "https://blog.wtcx.dev/",
-    "source": "n/a",
-    "tags": [
-      "Personal Site",
-      "Blog"
-    ]
-  },
-  {
     "title": "UmmIt - Blog",
     "url": "https://blog.ummit.dev/",
     "source": "n/a",
@@ -1052,6 +1043,14 @@
       "Blog",
       "Travel",
       "Paraguay"
+    ]
+  },
+  {
+    "title": "www.gsking.co.uk",
+    "url": "https://www.gsking.co.uk",
+    "source": "n/a",
+    "tags": [
+      "Personal site"
     ]
   }
 ]
